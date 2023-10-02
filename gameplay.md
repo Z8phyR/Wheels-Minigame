@@ -1,5 +1,7 @@
 # Wheels Game Mechanics
 
+[Wiki Link](https://seaofstars.fandom.com/wiki/Wheels)
+
 **Setup:**
 
 - Players start with two figurines: Warrior and Mage.

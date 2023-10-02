@@ -1,6 +1,6 @@
 # The Game of Wheels
 
-Inspired by the mini-game 'Wheels' from Sea of Stars, this is a recreation by Donovan Townes a.k.a Z8phyR. The primary objective is to destroy the enemy's crown before they get to yours.
+Inspired by the mini-game ['Wheels' from Sea of Stars](https://seaofstars.fandom.com/wiki/Wheels), this is a recreation by Donovan Townes a.k.a Z8phyR. The primary objective is to destroy the enemy's crown before they get to yours.
 
 ## How to Play
 
